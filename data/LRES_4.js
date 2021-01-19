@@ -1,0 +1,1 @@
+var json_LRES_4 = {"type":"FeatureCollection","name":"LRES_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"place":"Laurel Ridge Elementary"},"geometry":{"type":"Point","coordinates":[-84.27636,33.81535]}}]}
